@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"  coreApp="true"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"  coreApp="true"  android:sharedUserId="android.uid.system"
     package="com.kanefron5.statistics">
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
